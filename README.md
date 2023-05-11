@@ -17,7 +17,8 @@
 ## Demo
 
 
-https://github.com/SL-N30115/ClinicPro/assets/109400509/504f8f6e-7760-4b21-ace0-8a3d017b46ca
+
+![Screen Recording 2023-05-11 at 2 01 45 AM](https://github.com/SL-N30115/ClinicPro/assets/109400509/caa4d060-fa54-4278-a5ed-bd9bd2010c71)
 
 
 
