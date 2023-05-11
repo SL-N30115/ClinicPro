@@ -14,7 +14,7 @@
 - Redux: Redux is used to manage the state of Clinic Pro.
 
 
-
+## Demo
 
 ![ezgif com-optimize](https://github.com/SL-N30115/ClinicPro/assets/109400509/d1db719b-4d0b-4352-83a5-31844fa4b2f7)
 
