@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const hostingAddress = "https://gp5.onrender.com";
+// const hostingAddress = "https://gp5.onrender.com";
+const hostingAddress = "https://localhost:9001";
 
 export const postNewPatient = async (patient) => {
   patient.id = getRandomNumber(13);
