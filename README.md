@@ -16,7 +16,7 @@
 
 ## Demo
 
-![ezgif com-optimize](https://github.com/SL-N30115/ClinicPro/assets/109400509/d1db719b-4d0b-4352-83a5-31844fa4b2f7)
+<img src="/Preview/preview.gif" align="center" width="320"/>
 
 
 
