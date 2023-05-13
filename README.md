@@ -16,7 +16,7 @@
 
 ## Demo
 
-<img src="/Preview/preview.gif" align="center" width="320"/>
+<img src="/Preview/preview.gif" align="right" width="320"/>
 
 
 
