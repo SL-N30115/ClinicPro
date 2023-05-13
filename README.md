@@ -6,7 +6,10 @@
 ![App Screenshot](https://i.imgur.com/rZhPTgL.png)
 
 
+
 ## Tech stack
+
+<img src="/Preview/preview.gif" align="right" width="320"/>
 
 - Expo: platform that allows the creation of cross-platform applications using a single codebase
 - Axios: Make HTTP requests to the REST API that powers Clinic Pro. allows the application to communicate with the server and retrieve    data from it.
@@ -14,9 +17,8 @@
 - Redux: Redux is used to manage the state of Clinic Pro.
 
 
-## Demo
 
-<img src="/Preview/preview.gif" align="right" width="320"/>
+
 
 
 
